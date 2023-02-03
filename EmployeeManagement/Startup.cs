@@ -27,36 +27,25 @@ namespace EmployeeManagement
 
         }
 
-        public void Configure(IApplicationBuilder app, IHostingEnvironment env, 
-            ILogger<Startup> logger)
+        public void Configure(IApplicationBuilder app, IHostingEnvironment env)
         {
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
             }
 
-            app.Use(async (context, next) =>
-            {
-                logger.LogInformation("MW1: Incoming request.");
-                await next();
-                logger.LogInformation("MW1: Outgoing response..");
-            });
-
-            app.Use(async (context, next) =>
-            {
-                logger.LogInformation("MW2: Incoming request.");
-                await next();
-                logger.LogInformation("MW2: Outgoing response..");
-            });
+            FileServerOptions fileServerOptions= new FileServerOptions();
+            fileServerOptions.DefaultFileOptions.DefaultFileNames.Clear();
+            fileServerOptions.DefaultFileOptions.DefaultFileNames.Add("foo.html");
+            app.UseFileServer(fileServerOptions);
 
 
             app.Run(async (context) =>
                 {
                     await context.Response
-                        .WriteAsync("M3: Request handled and response produced.");
-                    logger.LogInformation("MW3: Outgoing response.");
+                        .WriteAsync("Hello.");
                 });
         }
-
+          
      }
 }
