@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Builder;
+using Microsoft.AspNetCore.Diagnostics;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -17,6 +18,9 @@ namespace EmployeeManagement
     public class Startup
     {
         private IConfiguration _config;
+
+        public int SourceCodeLineCount { get; private set; }
+
         public Startup(IConfiguration config)
         {
             _config = config;
@@ -31,22 +35,16 @@ namespace EmployeeManagement
         {
             if (env.IsDevelopment())
             {
-                app.UseDeveloperExceptionPage();
+                DeveloperExceptionPageOptions developerExceptionPageOptions = new DeveloperExceptionPageOptions;
+                SourceCodeLineCount = 10;
+                app.UseDeveloperExceptionPage(developerExceptionPageOptions);
             }
-            /*The dedault directory for static files is wwwroot.
-             * To serve static files UseStaticFiles() middleware is required.
-             * To serve a default file UseDefaultFiles() is required.
-             */
-            FileServerOptions fileServerOptions= new FileServerOptions();
-            fileServerOptions.DefaultFileOptions.DefaultFileNames.Clear();
-            fileServerOptions.DefaultFileOptions.DefaultFileNames.Add("foo.html");
-            app.UseFileServer(fileServerOptions);
 
+            app.UseFileServer();
 
             app.Run(async (context) =>
                 {
-                    await context.Response
-                        .WriteAsync("Hello.");
+                    throw new Exception("Some error processing to request.");
                 });
         }
           
