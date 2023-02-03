@@ -33,7 +33,10 @@ namespace EmployeeManagement
             {
                 app.UseDeveloperExceptionPage();
             }
-
+            /*The dedault directory for static files is wwwroot.
+             * To serve static files UseStaticFiles() middleware is required.
+             * To serve a default file UseDefaultFiles() is required.
+             */
             FileServerOptions fileServerOptions= new FileServerOptions();
             fileServerOptions.DefaultFileOptions.DefaultFileNames.Clear();
             fileServerOptions.DefaultFileOptions.DefaultFileNames.Add("foo.html");
