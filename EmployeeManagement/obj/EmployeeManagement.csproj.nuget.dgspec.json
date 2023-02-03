@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\debonair\\OneDrive\\Documents\\web_app_dev\\C# tutorialspoint\\EmployeeManagement\\EmployeeManagement.csproj": {}
+    "C:\\Users\\debonair\\OneDrive\\Documents\\web_app_dev\\Web-App-development-with-ASP.Net-and-Angular\\EmployeeManagement\\EmployeeManagement.csproj": {}
   },
   "projects": {
-    "C:\\Users\\debonair\\OneDrive\\Documents\\web_app_dev\\C# tutorialspoint\\EmployeeManagement\\EmployeeManagement.csproj": {
+    "C:\\Users\\debonair\\OneDrive\\Documents\\web_app_dev\\Web-App-development-with-ASP.Net-and-Angular\\EmployeeManagement\\EmployeeManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\debonair\\OneDrive\\Documents\\web_app_dev\\C# tutorialspoint\\EmployeeManagement\\EmployeeManagement.csproj",
+        "projectUniqueName": "C:\\Users\\debonair\\OneDrive\\Documents\\web_app_dev\\Web-App-development-with-ASP.Net-and-Angular\\EmployeeManagement\\EmployeeManagement.csproj",
         "projectName": "EmployeeManagement",
-        "projectPath": "C:\\Users\\debonair\\OneDrive\\Documents\\web_app_dev\\C# tutorialspoint\\EmployeeManagement\\EmployeeManagement.csproj",
+        "projectPath": "C:\\Users\\debonair\\OneDrive\\Documents\\web_app_dev\\Web-App-development-with-ASP.Net-and-Angular\\EmployeeManagement\\EmployeeManagement.csproj",
         "packagesPath": "C:\\Users\\debonair\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\debonair\\OneDrive\\Documents\\web_app_dev\\C# tutorialspoint\\EmployeeManagement\\obj\\",
+        "outputPath": "C:\\Users\\debonair\\OneDrive\\Documents\\web_app_dev\\Web-App-development-with-ASP.Net-and-Angular\\EmployeeManagement\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\debonair\\AppData\\Roaming\\NuGet\\NuGet.Config",
