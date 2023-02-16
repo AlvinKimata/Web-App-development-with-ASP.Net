@@ -28,23 +28,23 @@ namespace EmployeeManagement
         //Method to add services.
         public void ConfigureServices(IServiceCollection services)
         {
-
+            services.AddMvc();
         }
 
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
         {
             if (env.IsDevelopment())
             {
-                DeveloperExceptionPageOptions developerExceptionPageOptions = new DeveloperExceptionPageOptions;
-                SourceCodeLineCount = 10;
-                app.UseDeveloperExceptionPage(developerExceptionPageOptions);
+                app.UseDeveloperExceptionPage();
             }
+            app.UseStaticFiles();
+            app.UseMvcWithDefaultRoute();
 
             app.UseFileServer();
 
             app.Run(async (context) =>
                 {
-                    throw new Exception("Some error processing to request.");
+                    await context.Response.WriteAsync("Hello, world!");
                 });
         }
           
