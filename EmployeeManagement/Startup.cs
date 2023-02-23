@@ -32,8 +32,12 @@ namespace EmployeeManagement
         {
             if (env.IsDevelopment())
             {
+                DeveloperExceptionPageOptions developerExceptionPageOptions = new DeveloperExceptionPageOptions()
+                {
+                    SourceCodeLineCount = 10
+                };
 
-                app.UseDeveloperExceptionPage();
+                app.UseDeveloperExceptionPage(developerExceptionPageOptions);
             }
             app.UseDefaultFiles();
             app.UseStaticFiles();
