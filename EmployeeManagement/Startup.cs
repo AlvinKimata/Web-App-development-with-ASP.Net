@@ -34,10 +34,8 @@ namespace EmployeeManagement
             {
 
                 app.UseDeveloperExceptionPage();
-                DeveloperExceptionPageOptions developerExceptionPageOptions = new DeveloperExceptionPageOptions();
-                SourceCodeLineCount = 10;
-                app.UseDeveloperExceptionPage(developerExceptionPageOptions);
             }
+            app.UseDefaultFiles();
             app.UseStaticFiles();
             app.UseMvcWithDefaultRoute();
 
@@ -45,7 +43,7 @@ namespace EmployeeManagement
 
             app.Run(async (context) =>
                 {
-                    await context.Response.WriteAsync("Hello, world!");
+                    throw new Exception("Some error processing the request.");
                 });
         }
           
