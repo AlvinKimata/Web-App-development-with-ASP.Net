@@ -35,10 +35,10 @@ namespace EmployeeManagement
                 app.UseDeveloperExceptionPage();
             };
             app.UseStaticFiles();
+            app.UseMvcWithDefaultRoute();
             app.Run(async (context) =>
                 {
-                    //Reads the env variable from launchSettings.json
-                    await context.Response.WriteAsync("Hosting Environment:" + env.EnvironmentName);
+                    await context.Response.WriteAsync("Hello, world!");
                 });
         }
           
