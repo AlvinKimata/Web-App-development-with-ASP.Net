@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Ca1bfM/XkrwPMPjZZOt7uI9h/h2JTz37m4snhNP2GfS8IElHjBWyagGh1aZWvusn5dLURMySGEld/uC0NmP9iQ==",
+  "dgSpecHash": "PBRur4WEtTlgb+bGQ0FAER9QFFYXcqTqfsp3FEfm2uJPcTyQ7VHeWQSnCZiCV0aloGbxrg4N003PPk+rnRsGTQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\debonair\\OneDrive\\Documents\\web_app_dev\\Web-App-development-with-ASP.Net-and-Angular\\EmployeeManagement\\EmployeeManagement.csproj",
   "expectedPackageFiles": [
@@ -108,7 +108,7 @@
     "C:\\Users\\debonair\\.nuget\\packages\\system.componentmodel.annotations\\4.5.0\\system.componentmodel.annotations.4.5.0.nupkg.sha512",
     "C:\\Users\\debonair\\.nuget\\packages\\system.console\\4.3.0\\system.console.4.3.0.nupkg.sha512",
     "C:\\Users\\debonair\\.nuget\\packages\\system.diagnostics.debug\\4.3.0\\system.diagnostics.debug.4.3.0.nupkg.sha512",
-    "C:\\Users\\debonair\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.5.1\\system.diagnostics.diagnosticsource.4.5.1.nupkg.sha512",
+    "C:\\Users\\debonair\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.0\\system.diagnostics.diagnosticsource.4.7.0.nupkg.sha512",
     "C:\\Users\\debonair\\.nuget\\packages\\system.diagnostics.fileversioninfo\\4.3.0\\system.diagnostics.fileversioninfo.4.3.0.nupkg.sha512",
     "C:\\Users\\debonair\\.nuget\\packages\\system.diagnostics.stacktrace\\4.3.0\\system.diagnostics.stacktrace.4.3.0.nupkg.sha512",
     "C:\\Users\\debonair\\.nuget\\packages\\system.diagnostics.tools\\4.3.0\\system.diagnostics.tools.4.3.0.nupkg.sha512",
@@ -121,7 +121,8 @@
     "C:\\Users\\debonair\\.nuget\\packages\\system.io.pipelines\\4.5.3\\system.io.pipelines.4.5.3.nupkg.sha512",
     "C:\\Users\\debonair\\.nuget\\packages\\system.linq\\4.3.0\\system.linq.4.3.0.nupkg.sha512",
     "C:\\Users\\debonair\\.nuget\\packages\\system.linq.expressions\\4.3.0\\system.linq.expressions.4.3.0.nupkg.sha512",
-    "C:\\Users\\debonair\\.nuget\\packages\\system.memory\\4.5.2\\system.memory.4.5.2.nupkg.sha512",
+    "C:\\Users\\debonair\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\debonair\\.nuget\\packages\\system.net.http\\4.3.1\\system.net.http.4.3.1.nupkg.sha512",
     "C:\\Users\\debonair\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\debonair\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
     "C:\\Users\\debonair\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512",
@@ -157,5 +158,17 @@
     "C:\\Users\\debonair\\.nuget\\packages\\system.xml.xpath\\4.3.0\\system.xml.xpath.4.3.0.nupkg.sha512",
     "C:\\Users\\debonair\\.nuget\\packages\\system.xml.xpath.xdocument\\4.3.0\\system.xml.xpath.xdocument.4.3.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "EmployeeManagement depends on System.Diagnostics.DiagnosticSource (>= 4.6.1) but System.Diagnostics.DiagnosticSource 4.6.1 was not found. An approximate best match of System.Diagnostics.DiagnosticSource 4.7.0 was resolved.",
+      "libraryId": "System.Diagnostics.DiagnosticSource",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.7.2",
+        ".NETFramework,Version=v4.7.2/win7-x86"
+      ]
+    }
+  ]
 }

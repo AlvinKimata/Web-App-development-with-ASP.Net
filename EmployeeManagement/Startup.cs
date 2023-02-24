@@ -2,6 +2,7 @@ using EmployeeManagement.Models;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Mvc.Formatters;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
@@ -26,6 +27,12 @@ namespace EmployeeManagement
         //Method to add services.
         public void ConfigureServices(IServiceCollection services)
         {
+            /*services.AddMvc(options =>
+            {
+                //Allow xml format for input.
+                options.InputFormatters.Add(new XmlSerializerInputFormatter(options));
+            });
+            */
             services.AddMvc();
             services.AddSingleton<IEmployeeRepository, MockEmployeeRepository>();
         }
