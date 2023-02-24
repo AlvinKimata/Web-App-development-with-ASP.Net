@@ -18,8 +18,8 @@ namespace EmployeeManagement.Controllers
         public ViewResult Details()
         {
             Employee model = _employeeRepository.GetEmployee(1);
-            ViewData["employee"] = model;
-            ViewData["pageTitle"] = "Employee Details";
+            ViewBag.Employee = model;
+            ViewBag.PageTitle = "Employee Details";
             return View();
         }
     }
