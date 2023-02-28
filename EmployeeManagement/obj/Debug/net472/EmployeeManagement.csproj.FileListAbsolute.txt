@@ -292,3 +292,4 @@ C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Ne
 C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\obj\Debug\net472\EmployeeManagement.exe
 C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\obj\Debug\net472\EmployeeManagement.pdb
 C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\obj\Debug\net472\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\obj\Debug\net472\Razor\Views\Home\Index.cshtml.g.cs
