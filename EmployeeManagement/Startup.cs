@@ -44,11 +44,11 @@ namespace EmployeeManagement
                 app.UseDeveloperExceptionPage();
             };
             app.UseStaticFiles();
-            app.UseMvcWithDefaultRoute();
-            app.Run(async (context) =>
-                {
-                    await context.Response.WriteAsync("Hello, world!");
-                });
+            //app.UseMvcWithDefaultRoute();
+            app.UseMvc(routes => {
+                routes.MapRoute("default", "{controller=home}/{action=index}/{id?}");
+            });
+            
         }
           
      }
