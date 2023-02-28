@@ -46,9 +46,9 @@ namespace EmployeeManagement
             app.UseStaticFiles();
             //app.UseMvcWithDefaultRoute();
             app.UseMvc(routes => {
-                routes.MapRoute("default", "{controller=home}/{action=index}/{id?}");
+                routes.MapRoute("default", "{controller=home}/{action=Index}/{id?}");
             });
-            
+       
         }
           
      }

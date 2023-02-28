@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace EmployeeManagement.Controllers
 {
+    [Route("[controller]/[action]")]
     public class HomeController : Controller
     {
         private IEmployeeRepository _employeeRepository;
@@ -11,6 +12,7 @@ namespace EmployeeManagement.Controllers
         {
             _employeeRepository = employeeRepository; 
         }
+
         public ViewResult Index()
         {
             var model = _employeeRepository.GetAllEmployees();
