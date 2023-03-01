@@ -16,9 +16,10 @@
             <img class="card-img-top" src="~/images/huggingface.png" asp-append-version="true"/>
 
             <div class="card-footer text-center">
-                <a asp-controller="home" asp-action="details" asp-route-id="@employee.Id" class="btn btn-primary">Display</a >
-                <a href="#" class="btn btn-primary">Edit</a>
-                <a href="#" class="btn btn-danger">Delete</a>
+                <a asp-controller="home" asp-action="details" asp-route-id="@employee.Id" 
+                   class="btn btn-primary m-1">View</a>
+                <a href="#" class="btn btn-primary  m-1">Edit</a>
+                <a href="#" class="btn btn-danger  m-1">Delete</a>
             </div>
         </div>
     }
