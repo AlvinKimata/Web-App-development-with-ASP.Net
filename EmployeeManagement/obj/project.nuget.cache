@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "e5uHwliOctnvDuGFRj0yW4KS+VVXcyegTZowhuHYTpzfqDks6U0wNeaY8/SBmYcx2a5vGMXa/PCONwANnbkPbA==",
+  "dgSpecHash": "KyGGX3FKZBxWLobCNRTNjQzEcinOvYqAZs0C8Ym4e0d2al54PsMVWlk6CZQPKzGDn0coQ7IVDv2RP9CQT94NRw==",
   "success": true,
   "projectFilePath": "C:\\Users\\debonair\\OneDrive\\Documents\\web_app_dev\\Web-App-development-with-ASP.Net-and-Angular\\EmployeeManagement\\EmployeeManagement.csproj",
   "expectedPackageFiles": [
@@ -69,6 +69,8 @@
     "C:\\Users\\debonair\\.nuget\\packages\\microsoft.entityframeworkcore\\2.2.6\\microsoft.entityframeworkcore.2.2.6.nupkg.sha512",
     "C:\\Users\\debonair\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\2.2.6\\microsoft.entityframeworkcore.abstractions.2.2.6.nupkg.sha512",
     "C:\\Users\\debonair\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\2.2.6\\microsoft.entityframeworkcore.analyzers.2.2.6.nupkg.sha512",
+    "C:\\Users\\debonair\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\2.2.6\\microsoft.entityframeworkcore.relational.2.2.6.nupkg.sha512",
+    "C:\\Users\\debonair\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\2.2.6\\microsoft.entityframeworkcore.sqlserver.2.2.6.nupkg.sha512",
     "C:\\Users\\debonair\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\2.2.0\\microsoft.extensions.caching.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\debonair\\.nuget\\packages\\microsoft.extensions.caching.memory\\2.2.0\\microsoft.extensions.caching.memory.2.2.0.nupkg.sha512",
     "C:\\Users\\debonair\\.nuget\\packages\\microsoft.extensions.configuration\\2.2.0\\microsoft.extensions.configuration.2.2.0.nupkg.sha512",
@@ -111,6 +113,7 @@
     "C:\\Users\\debonair\\.nuget\\packages\\system.collections.immutable\\1.5.0\\system.collections.immutable.1.5.0.nupkg.sha512",
     "C:\\Users\\debonair\\.nuget\\packages\\system.componentmodel.annotations\\4.5.0\\system.componentmodel.annotations.4.5.0.nupkg.sha512",
     "C:\\Users\\debonair\\.nuget\\packages\\system.console\\4.3.0\\system.console.4.3.0.nupkg.sha512",
+    "C:\\Users\\debonair\\.nuget\\packages\\system.data.sqlclient\\4.6.1\\system.data.sqlclient.4.6.1.nupkg.sha512",
     "C:\\Users\\debonair\\.nuget\\packages\\system.diagnostics.debug\\4.3.0\\system.diagnostics.debug.4.3.0.nupkg.sha512",
     "C:\\Users\\debonair\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.0\\system.diagnostics.diagnosticsource.4.7.0.nupkg.sha512",
     "C:\\Users\\debonair\\.nuget\\packages\\system.diagnostics.fileversioninfo\\4.3.0\\system.diagnostics.fileversioninfo.4.3.0.nupkg.sha512",

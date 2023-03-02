@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc.Formatters;
 using Microsoft.Extensions.Configuration;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using System;
@@ -18,8 +19,6 @@ namespace EmployeeManagement
     {
         private IConfiguration _config;
 
-        public int SourceCodeLineCount { get; private set; }
-
         public Startup(IConfiguration config)
         {
             _config = config;
@@ -27,12 +26,7 @@ namespace EmployeeManagement
         //Method to add services.
         public void ConfigureServices(IServiceCollection services)
         {
-            /*services.AddMvc(options =>
-            {
-                //Allow xml format for input.
-                options.InputFormatters.Add(new XmlSerializerInputFormatter(options));
-            });
-            */
+            services.AddDbContextPool<AppDbContext>(options => options.UseSqlServer(_config.GetConnectionString("EmployeeDBConnection")));
             services.AddMvc();
             services.AddTransient<IEmployeeRepository, MockEmployeeRepository>();
         }
