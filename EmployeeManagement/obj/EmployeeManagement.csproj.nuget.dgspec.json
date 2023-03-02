@@ -60,6 +60,10 @@
               "target": "Package",
               "version": "[2.1.1, )"
             },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
             "System.Diagnostics.DiagnosticSource": {
               "target": "Package",
               "version": "[4.6.1, )"
