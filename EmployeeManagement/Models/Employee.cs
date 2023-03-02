@@ -13,6 +13,10 @@ namespace EmployeeManagement.Models
         [Required]
         public string Name { get; set; }
         [Required]
+        [RegularExpression(@"^[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+$",
+        ErrorMessage = "Invalid email format")]
+
+        [Display(Name = "Office email")]
         public string Email{ get; set; }
         public Dept Deprtment { get; set; }
     }
