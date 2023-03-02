@@ -299,3 +299,10 @@ C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Ne
 C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\obj\Debug\net472\Razor\Views\_ViewStart.cshtml.g.cs
 C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\bin\Debug\net472\libman.json
 C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\obj\Debug\net472\Razor\Views\Home\Create.cshtml.g.cs
+C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\bin\Debug\net472\Microsoft.EntityFrameworkCore.dll
+C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\bin\Debug\net472\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\bin\Debug\net472\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\bin\Debug\net472\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\bin\Debug\net472\Remotion.Linq.dll
+C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\bin\Debug\net472\System.Data.SqlClient.dll
+C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\bin\Debug\net472\System.Interactive.Async.dll
