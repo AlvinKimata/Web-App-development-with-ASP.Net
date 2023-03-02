@@ -29,12 +29,13 @@ namespace EmployeeManagement.Models
 
         public Employee Delete(int id)
         {
-            Employee employee _employeeList.FirstOrDefault(e => e.Id == id);
+            Employee employee = _employeeList.FirstOrDefault(e => e.Id == id);
 
             if (employee != null)
             {
-                _employeeList.Remove(employee);
+                return employee;
             }
+            _employeeList.Remove(employee);
             return employee;
         }
 
@@ -50,7 +51,15 @@ namespace EmployeeManagement.Models
 
         public Employee Update(Employee employeeChanges)
         {
-            throw new NotImplementedException();
+            Employee employee = _employeeList.FirstOrDefault(e => e.Id == employeeChanges.Id);
+
+            if (employee != null)
+            {
+                employee.Name = employeeChanges.Name;
+                employee.Email = employeeChanges.Email;
+                employee.Deprtment = employeeChanges.Deprtment;
+            }
+            return employee;
         }
     }
 }
