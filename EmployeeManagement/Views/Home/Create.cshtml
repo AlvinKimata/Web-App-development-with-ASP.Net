@@ -23,7 +23,11 @@
         <label asp-for="Deprtment" class="col-sm-2 col-form-label"></label>
         <div class="col-sm-10">
             <select asp-for="Deprtment" class="custom-select mr-sm-2"
-                    asp-items="Html.GetEnumSelectList<Dept>()"></select>
+                    asp-items="Html.GetEnumSelectList<Dept>()">
+                <option value="">Please Select</option>
+            </select>
+            <span asp-validation-for="Deprtment" class="text-danger"></span>
+
         </div>
     </div>
     <div asp-validation-summary="All" class="text-danger">

@@ -19,6 +19,7 @@ namespace EmployeeManagement.Models
 
         [Display(Name = "Office email")]
         public string Email{ get; set; }
-        public Dept Deprtment { get; set; }
+        [Required]
+        public Dept? Deprtment { get; set; }
     }
 }
