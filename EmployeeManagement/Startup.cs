@@ -34,7 +34,7 @@ namespace EmployeeManagement
             });
             */
             services.AddMvc();
-            services.AddSingleton<IEmployeeRepository, MockEmployeeRepository>();
+            services.AddTransient<IEmployeeRepository, MockEmployeeRepository>();
         }
 
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
