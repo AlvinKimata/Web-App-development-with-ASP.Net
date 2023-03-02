@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IRkfSMHL2tq9bloHU3U6sI0ybJ/fDzcaAYBp15AA0sxaqnZnVezeUD2PfxpNq3BrPMc0zT2Wj7PrpVNWyxCkPA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\debonair\\OneDrive\\Documents\\web_app_dev\\Web-App-development-with-ASP.Net-and-Angular\\WebApplication3\\WebApplication3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\debonair\\.nuget\\packages\\microsoft.aspnetcore.razor.design\\2.2.0\\microsoft.aspnetcore.razor.design.2.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

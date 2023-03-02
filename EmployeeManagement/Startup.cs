@@ -26,6 +26,7 @@ namespace EmployeeManagement
         //Method to add services.
         public void ConfigureServices(IServiceCollection services)
         {
+            var connection = _config.GetConnectionString("EmployeeDBConnection");
             services.AddDbContextPool<AppDbContext>(options => options.UseSqlServer(_config.GetConnectionString("EmployeeDBConnection")));
             services.AddMvc();
             services.AddScoped<IEmployeeRepository, SQLEmployeeRepository>();
@@ -38,9 +39,13 @@ namespace EmployeeManagement
                 app.UseDeveloperExceptionPage();
             };
             app.UseStaticFiles();
+
+            app.UseRouting();
             //app.UseMvcWithDefaultRoute();
-            app.UseMvc(routes => {
-                routes.MapRoute("default", "{controller=home}/{action=Index}/{id?}");
+            app.UseEndpoints(endpoints => {
+                endpoints.MapControllerRoute(
+                    name:"default",
+                    pattern:"{controller=home}/{action=Index}/{id?}");
             });
        
         }

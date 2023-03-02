@@ -1,153 +1,7 @@
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\app.config
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\appsettings.Development.json
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\appsettings.json
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\EmployeeManagement.exe.config
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\EmployeeManagement.deps.json
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\EmployeeManagement.exe
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\EmployeeManagement.pdb
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\EmployeeManagement.Views.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\EmployeeManagement.Views.pdb
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.AspNetCore.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.AspNetCore.Antiforgery.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.AspNetCore.Authentication.Abstractions.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.AspNetCore.Authentication.Core.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.AspNetCore.Authorization.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.AspNetCore.Authorization.Policy.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.AspNetCore.Connections.Abstractions.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.AspNetCore.CookiePolicy.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.AspNetCore.Cors.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.AspNetCore.Cryptography.Internal.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.Abstractions.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.AspNetCore.Diagnostics.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.AspNetCore.HostFiltering.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.AspNetCore.Hosting.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.AspNetCore.Hosting.Abstractions.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.AspNetCore.Html.Abstractions.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.AspNetCore.Http.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.AspNetCore.Http.Abstractions.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.AspNetCore.Http.Extensions.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.AspNetCore.Http.Features.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.AspNetCore.HttpOverrides.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.AspNetCore.HttpsPolicy.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.AspNetCore.JsonPatch.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.AspNetCore.Localization.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.AspNetCore.Mvc.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.AspNetCore.Mvc.Abstractions.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.AspNetCore.Mvc.Core.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.AspNetCore.Mvc.Cors.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.AspNetCore.Mvc.Localization.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.AspNetCore.Mvc.Razor.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.AspNetCore.Mvc.RazorPages.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.AspNetCore.Mvc.TagHelpers.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.AspNetCore.Razor.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.AspNetCore.Razor.Language.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.AspNetCore.Razor.Runtime.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.AspNetCore.Routing.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.AspNetCore.Routing.Abstractions.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.AspNetCore.Server.IISIntegration.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.AspNetCore.Server.Kestrel.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.AspNetCore.Server.Kestrel.Core.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.AspNetCore.Server.Kestrel.Https.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.AspNetCore.StaticFiles.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.AspNetCore.WebUtilities.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.CodeAnalysis.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.CodeAnalysis.Razor.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.DotNet.PlatformAbstractions.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.Extensions.Caching.Abstractions.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.Extensions.Configuration.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.Extensions.Configuration.Binder.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.Extensions.Configuration.CommandLine.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.Extensions.Configuration.FileExtensions.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.Extensions.Configuration.Json.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.Extensions.Configuration.UserSecrets.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.Extensions.DependencyModel.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.Extensions.FileProviders.Abstractions.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.Extensions.FileProviders.Composite.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.Extensions.FileProviders.Physical.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.Extensions.FileSystemGlobbing.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.Extensions.Hosting.Abstractions.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.Extensions.Localization.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.Extensions.Localization.Abstractions.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.Extensions.Logging.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.Extensions.Logging.Configuration.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.Extensions.Logging.Console.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.Extensions.Logging.Debug.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.Extensions.ObjectPool.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.Extensions.Options.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.Extensions.Options.ConfigurationExtensions.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.Extensions.Primitives.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.Extensions.WebEncoders.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.Net.Http.Headers.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.Win32.Registry.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Newtonsoft.Json.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Newtonsoft.Json.Bson.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\System.Buffers.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\System.Collections.Immutable.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\System.ComponentModel.Annotations.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\System.Diagnostics.DiagnosticSource.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\System.IO.Pipelines.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\System.Memory.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\System.Numerics.Vectors.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\System.Reflection.Metadata.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\System.Runtime.CompilerServices.Unsafe.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\System.Security.AccessControl.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\System.Security.Cryptography.Cng.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\System.Security.Cryptography.Xml.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\System.Security.Permissions.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\System.Security.Principal.Windows.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\System.Text.Encoding.CodePages.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\System.Text.Encodings.Web.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\System.Threading.Tasks.Extensions.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\bin\Debug\net472\Microsoft.DiaSymReader.Native.x86.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\obj\Debug\net472\EmployeeManagement.csproj.AssemblyReference.cache
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\obj\Debug\net472\EmployeeManagement.csproj.SuggestedBindingRedirects.cache
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\obj\Debug\net472\EmployeeManagement.exe.config
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\obj\Debug\net472\EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\obj\Debug\net472\EmployeeManagement.AssemblyInfoInputs.cache
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\obj\Debug\net472\EmployeeManagement.AssemblyInfo.cs
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\obj\Debug\net472\EmployeeManagement.csproj.CoreCompileInputs.cache
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\obj\Debug\net472\EmployeeManagement.RazorAssemblyInfo.cache
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\obj\Debug\net472\EmployeeManagement.RazorAssemblyInfo.cs
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\obj\Debug\net472\EmployeeManagement.TagHelpers.input.cache
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\obj\Debug\net472\EmployeeManagement.TagHelpers.output.cache
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\obj\Debug\net472\EmployeeManagement.RazorCoreGenerate.cache
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\obj\Debug\net472\Razor\Pages\About.cshtml.g.cs
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\obj\Debug\net472\Razor\Pages\Contact.cshtml.g.cs
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\obj\Debug\net472\Razor\Pages\Error.cshtml.g.cs
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\obj\Debug\net472\Razor\Pages\Index.cshtml.g.cs
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\obj\Debug\net472\Razor\Pages\Privacy.cshtml.g.cs
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\obj\Debug\net472\Razor\Pages\Shared\_CookieConsentPartial.cshtml.g.cs
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\obj\Debug\net472\Razor\Pages\Shared\_Layout.cshtml.g.cs
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\obj\Debug\net472\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\obj\Debug\net472\Razor\Pages\_ViewImports.cshtml.g.cs
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\obj\Debug\net472\Razor\Pages\_ViewStart.cshtml.g.cs
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\obj\Debug\net472\EmployeeManagement.RazorTargetAssemblyInfo.cache
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\obj\Debug\net472\EmployeeManagement.RazorTargetAssemblyInfo.cs
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\obj\Debug\net472\EmployeeManagement.Views.pdb
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\obj\Debug\net472\EmployeeManagement.csproj.CopyComplete
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\obj\Debug\net472\EmployeeManagement.exe
-C:\Users\debonair\OneDrive\Documents\web_app_dev\C# tutorialspoint\EmployeeManagement\obj\Debug\net472\EmployeeManagement.pdb
 C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\bin\Debug\net472\app.config
 C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\bin\Debug\net472\appsettings.Development.json
 C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\bin\Debug\net472\appsettings.json
+C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\bin\Debug\net472\libman.json
 C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\bin\Debug\net472\EmployeeManagement.exe.config
 C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\bin\Debug\net472\EmployeeManagement.deps.json
 C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\bin\Debug\net472\EmployeeManagement.exe
@@ -212,6 +66,11 @@ C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Ne
 C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\bin\Debug\net472\Microsoft.CodeAnalysis.CSharp.dll
 C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\bin\Debug\net472\Microsoft.CodeAnalysis.Razor.dll
 C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\bin\Debug\net472\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\bin\Debug\net472\Microsoft.EntityFrameworkCore.dll
+C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\bin\Debug\net472\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\bin\Debug\net472\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\bin\Debug\net472\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\bin\Debug\net472\Microsoft.EntityFrameworkCore.SqlServer.dll
 C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\bin\Debug\net472\Microsoft.Extensions.Caching.Abstractions.dll
 C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\bin\Debug\net472\Microsoft.Extensions.Caching.Memory.dll
 C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\bin\Debug\net472\Microsoft.Extensions.Configuration.dll
@@ -249,6 +108,7 @@ C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Ne
 C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\bin\Debug\net472\System.Buffers.dll
 C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\bin\Debug\net472\System.Collections.Immutable.dll
 C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\bin\Debug\net472\System.ComponentModel.Annotations.dll
+C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\bin\Debug\net472\System.Data.SqlClient.dll
 C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\bin\Debug\net472\System.Diagnostics.DiagnosticSource.dll
 C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\bin\Debug\net472\System.IO.Pipelines.dll
 C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\bin\Debug\net472\System.Memory.dll
@@ -264,7 +124,6 @@ C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Ne
 C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\bin\Debug\net472\System.Text.Encodings.Web.dll
 C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\bin\Debug\net472\System.Threading.Tasks.Extensions.dll
 C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\bin\Debug\net472\Microsoft.DiaSymReader.Native.x86.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\obj\Debug\net472\EmployeeManagement.csproj.AssemblyReference.cache
 C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\obj\Debug\net472\EmployeeManagement.exe.config
 C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\obj\Debug\net472\EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\obj\Debug\net472\EmployeeManagement.AssemblyInfoInputs.cache
@@ -285,24 +144,19 @@ C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Ne
 C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\obj\Debug\net472\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
 C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\obj\Debug\net472\Razor\Pages\_ViewImports.cshtml.g.cs
 C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\obj\Debug\net472\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\obj\Debug\net472\Razor\Views\Home\Create.cshtml.g.cs
+C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\obj\Debug\net472\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\obj\Debug\net472\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\obj\Debug\net472\Razor\Views\Home\_ViewStart.cshtml.g.cs
+C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\obj\Debug\net472\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\obj\Debug\net472\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\obj\Debug\net472\Razor\Views\_ViewStart.cshtml.g.cs
 C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\obj\Debug\net472\EmployeeManagement.RazorTargetAssemblyInfo.cache
 C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\obj\Debug\net472\EmployeeManagement.RazorTargetAssemblyInfo.cs
 C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\obj\Debug\net472\EmployeeManagement.Views.pdb
 C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\obj\Debug\net472\EmployeeManagement.csproj.CopyComplete
 C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\obj\Debug\net472\EmployeeManagement.exe
 C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\obj\Debug\net472\EmployeeManagement.pdb
-C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\obj\Debug\net472\Razor\Views\Home\Details.cshtml.g.cs
-C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\obj\Debug\net472\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\obj\Debug\net472\Razor\Views\Shared\_Layout.cshtml.g.cs
-C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\obj\Debug\net472\Razor\Views\Home\_ViewStart.cshtml.g.cs
-C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\obj\Debug\net472\Razor\Views\_ViewImports.cshtml.g.cs
-C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\obj\Debug\net472\Razor\Views\_ViewStart.cshtml.g.cs
-C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\bin\Debug\net472\libman.json
-C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\obj\Debug\net472\Razor\Views\Home\Create.cshtml.g.cs
-C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\bin\Debug\net472\Microsoft.EntityFrameworkCore.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\bin\Debug\net472\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\bin\Debug\net472\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\bin\Debug\net472\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\bin\Debug\net472\Remotion.Linq.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\bin\Debug\net472\System.Data.SqlClient.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\bin\Debug\net472\System.Interactive.Async.dll
+C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\bin\Debug\net472\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\bin\Debug\net472\Microsoft.Bcl.HashCode.dll
+C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\obj\Debug\net472\EmployeeManagement.csproj.AssemblyReference.cache
