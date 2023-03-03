@@ -21,5 +21,9 @@ namespace EmployeeManagement.Models
         public string Email{ get; set; }
         [Required]
         public Dept? Deprtment { get; set; }
+
+        public string PhotoPat { get; set; }
+
+        public int SomeProperty { get; set; }
     }
 }
