@@ -2,7 +2,7 @@
 
 namespace EmployeeManagement.Migrations
 {
-    public partial class AddPhotoPathColumn : Migration
+    public partial class AddPhotopath : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {

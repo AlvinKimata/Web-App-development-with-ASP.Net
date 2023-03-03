@@ -9,8 +9,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace EmployeeManagement.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20230303064034_AddPhotoPathColumn")]
-    partial class AddPhotoPathColumn
+    [Migration("20230303065731_AddPhotopath")]
+    partial class AddPhotopath
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
