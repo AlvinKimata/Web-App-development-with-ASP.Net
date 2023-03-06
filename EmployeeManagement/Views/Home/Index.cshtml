@@ -15,7 +15,7 @@
             <div class="card-header">
                 <h3>@employee.Name</h3>
             </div>
-            <img class="card-img-top" src="@photoPath" asp-append-version="true"/>
+            <img class="card-img-top imageThumbnail"  src="@photoPath" asp-append-version="true"/>
 
             <div class="card-footer text-center d-flex">
                 <a asp-controller="home" asp-action="details" asp-route-id="@employee.Id" 
