@@ -12,6 +12,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Runtime.InteropServices;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Identity;
 
 namespace EmployeeManagement
 {
@@ -28,6 +29,10 @@ namespace EmployeeManagement
         {
             var connection = _config.GetConnectionString("EmployeeDBConnection");
             services.AddDbContextPool<AppDbContext>(options => options.UseSqlServer(_config.GetConnectionString("EmployeeDBConnection")));
+
+            services.AddIdentity<IdentityUser, IdentityRole>()
+                .AddEntityFrameworkStores<AppDbContext>();
+
             services.AddMvc();
             services.AddScoped<IEmployeeRepository, SQLEmployeeRepository>();
         }
@@ -44,6 +49,7 @@ namespace EmployeeManagement
                 app.UseStatusCodePagesWithReExecute("/Error/{0}");
             }
             app.UseStaticFiles();
+            app.UseAuthentication();
 
             app.UseRouting();
             //app.UseMvcWithDefaultRoute();
