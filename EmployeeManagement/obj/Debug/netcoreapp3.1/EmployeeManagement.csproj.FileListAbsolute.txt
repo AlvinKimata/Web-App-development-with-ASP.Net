@@ -82,3 +82,7 @@ C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Ne
 C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\obj\Debug\netcoreapp3.1\Razor\Views\Home\EmployeeNotFound.cshtml.g.cs
 C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\obj\Debug\netcoreapp3.1\Razor\Views\Shared\NotFound.cshtml.g.cs
 C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\bin\Debug\netcoreapp3.1\nlog.config
+C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "33FdepeUi0vtR2SgC4ETPKtPlsmqlqkNGEOSqRbC2HeFwhKVb7f2oMo6TCdOZFJhQ9xFUt74n9qh3neWm+hg0A==",
+  "dgSpecHash": "xBZ9zZgYb6e+6Tu2RKIEWVAUlcwBG7O5Ax8UZ9nJP5cKtkX+zuoyRjewmXxvTp/RyWkr8cipIcQ4H7B8Z5jJBg==",
   "success": true,
   "projectFilePath": "C:\\Users\\debonair\\OneDrive\\Documents\\web_app_dev\\Web-App-development-with-ASP.Net-and-Angular\\EmployeeManagement\\EmployeeManagement.csproj",
   "expectedPackageFiles": [
@@ -114,6 +114,9 @@
     "C:\\Users\\debonair\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
     "C:\\Users\\debonair\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
     "C:\\Users\\debonair\\.nuget\\packages\\newtonsoft.json.bson\\1.0.1\\newtonsoft.json.bson.1.0.1.nupkg.sha512",
+    "C:\\Users\\debonair\\.nuget\\packages\\nlog\\5.1.2\\nlog.5.1.2.nupkg.sha512",
+    "C:\\Users\\debonair\\.nuget\\packages\\nlog.extensions.logging\\5.2.2\\nlog.extensions.logging.5.2.2.nupkg.sha512",
+    "C:\\Users\\debonair\\.nuget\\packages\\nlog.web.aspnetcore\\5.2.2\\nlog.web.aspnetcore.5.2.2.nupkg.sha512",
     "C:\\Users\\debonair\\.nuget\\packages\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\debonair\\.nuget\\packages\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\debonair\\.nuget\\packages\\runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
