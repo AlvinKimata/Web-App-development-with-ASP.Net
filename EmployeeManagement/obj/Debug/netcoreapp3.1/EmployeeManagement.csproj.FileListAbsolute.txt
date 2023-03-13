@@ -52,7 +52,6 @@ C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Ne
 C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.csproj.AssemblyReference.cache
 C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.AssemblyInfoInputs.cache
 C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.AssemblyInfo.cs
@@ -60,9 +59,6 @@ C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Ne
 C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.RazorAssemblyInfo.cache
 C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.RazorAssemblyInfo.cs
-C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\obj\Debug\netcoreapp3.1\staticwebassets\EmployeeManagement.StaticWebAssets.Manifest.cache
-C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\obj\Debug\netcoreapp3.1\staticwebassets\EmployeeManagement.StaticWebAssets.xml
-C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\obj\Debug\netcoreapp3.1\scopedcss\bundle\EmployeeManagement.styles.css
 C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.TagHelpers.input.cache
 C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.TagHelpers.output.cache
 C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.RazorCoreGenerate.cache
@@ -94,5 +90,10 @@ C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Ne
 C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.dll
 C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.pdb
 C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.genruntimeconfig.cache
-C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.csproj.AssemblyReference.cache
+C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\obj\Debug\netcoreapp3.1\staticwebassets\EmployeeManagement.StaticWebAssets.Manifest.cache
+C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\obj\Debug\netcoreapp3.1\staticwebassets\EmployeeManagement.StaticWebAssets.xml
+C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\obj\Debug\netcoreapp3.1\scopedcss\bundle\EmployeeManagement.styles.css
 C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\debonair\OneDrive\Documents\web_app_dev\Web-App-development-with-ASP.Net-and-Angular\EmployeeManagement\obj\Debug\netcoreapp3.1\Razor\Views\Home\AccountController\Register.cshtml.g.cs
