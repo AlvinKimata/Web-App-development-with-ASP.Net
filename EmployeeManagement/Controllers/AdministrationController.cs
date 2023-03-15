@@ -10,7 +10,6 @@ using System.Threading.Tasks;
 
 namespace EmployeeManagement.Controllers
 {
-    [Authorize(Roles = "Admin")]
     [Authorize(Roles = "User")]
     public class AdministrationController : Controller
     {
@@ -188,5 +187,6 @@ namespace EmployeeManagement.Controllers
             }
             return RedirectToAction("EditRole", new { id = roleId });
         }
+       
     }
 }
