@@ -10,7 +10,6 @@ using System.Threading.Tasks;
 
 namespace EmployeeManagement.Controllers
 {
-    [Authorize]
     public class AccountController : Controller
     {
         private readonly UserManager<ApplicationUser> userManager;
@@ -21,6 +20,13 @@ namespace EmployeeManagement.Controllers
         {
             this.userManager = userManager;
             this.signInManager = signInManager;
+        }
+
+        [HttpGet]
+        public IActionResult ListUsers()
+        {
+            var users = userManager.Users;
+            return View(users);
         }
 
         [HttpPost]
@@ -52,7 +58,6 @@ namespace EmployeeManagement.Controllers
                 return Json($"Email {email} is already in use.");
             }
         }
-
 
         [HttpPost]
         [AllowAnonymous]
