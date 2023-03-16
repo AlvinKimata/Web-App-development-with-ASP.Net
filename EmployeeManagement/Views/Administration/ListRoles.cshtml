@@ -1,4 +1,6 @@
 ﻿@model IEnumerable<IdentityRole>
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<ApplicationUser> SignInManager
 
 @{
     ViewBag.Title = "All roles";
@@ -25,9 +27,11 @@
 
             <div class="card-footer">
                 <form asp-action="DeleteRole_@role.Id" asp-route-id="@role.Id" method="post">
-
-                    <a class="btn btn-primary" asp-action="EditRole"
-                       asp-controller="Administration" asp-route-id="@role.Id">Edit</a>
+                    @if ((await authorizationService.AuthorizeAsync(User, "EditRolePolicy")).Succeeded)
+                    {
+                        <a class="btn btn-primary" asp-action="EditRole"
+                           asp-controller="Administration" asp-route-id="@role.Id">Edit</a>
+                    }
 
                     <span id="confirmDeleteSpan_@role.Id" style="display: none">
                         <span>Are you sure you want to delete?></span>
