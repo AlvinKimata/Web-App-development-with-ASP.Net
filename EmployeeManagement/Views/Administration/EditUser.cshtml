@@ -85,9 +85,10 @@
             }
         </div>
         <div class="card-footer">
-            <a href="#" style="width:auto" class="btn btn-primary">
-                Manage Claims
+            <a asp-action="ManageUserClaims" asp-route-userId="@Model.Id"
+               style="width:auto" class="btn btn-primary">Manage Claims
             </a>
+
         </div>
     </div>
 </form>
