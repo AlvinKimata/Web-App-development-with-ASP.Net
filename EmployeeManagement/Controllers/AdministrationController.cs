@@ -3,6 +3,8 @@ using EmployeeManagement.ViewModels;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Logging;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -17,7 +19,8 @@ namespace EmployeeManagement.Controllers
         private readonly UserManager<ApplicationUser> userManager;
 
         public AdministrationController(RoleManager<IdentityRole> roleManager,
-                                        UserManager<ApplicationUser> userManager)
+                                        UserManager<ApplicationUser> userManager,
+                                        ILogger)
         {
             this.roleManager = roleManager;
             this.userManager = userManager;
@@ -62,18 +65,29 @@ namespace EmployeeManagement.Controllers
             }
             else
             {
-                var result = await roleManager.DeleteAsync(role);
-                if (result.Succeeded)
+                try
                 {
-                    return RedirectToAction("ListRoles");
+                    var result = await roleManager.DeleteAsync(role);
+                    if (result.Succeeded)
+                    {
+                        return RedirectToAction("ListRoles");
+                    }
+
+                    foreach (var error in result.Errors)
+                    {
+                        ModelState.AddModelError("", error.Description);
+                    }
+
+                    return View("ListRoles");
                 }
 
-                foreach (var error in result.Errors)
+                catch (DbUpdateException ex)
                 {
-                    ModelState.AddModelError("", error.Description);
+                    @ViewBag.ErrorTitle = $"{role.Name} role is in use.";
+                    @ViewBag.ErrorMessage = $"{role.Name} role cannot be deleted as there" +
+                        "are users in this role.";
+                    return View("Error");
                 }
-
-                return View("ListRoles");
             }
         }
         [HttpGet]
