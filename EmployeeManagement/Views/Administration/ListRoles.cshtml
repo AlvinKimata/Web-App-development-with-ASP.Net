@@ -9,28 +9,39 @@
 @if (Model.Any())
 {
 
-    <a class="btn btn-primary mb-3"  style="width:auto"
+    <a class="btn btn-primary mb-3" style="width:auto"
        asp-action="CreateRole" asp-controller="administration">Add new role</a>
 
-    foreach(var role in Model)
-                {
-                    <div class="card mb-3">
-                        <div class="card-header">
-                            Role Id: @role.Id
-                        </div>
+    foreach (var role in Model)
+    {
+        <div class="card mb-3">
+            <div class="card-header">
+                Role Id: @role.Id
+            </div>
 
-                        <div class="card-body">
-                            <h5 class="card-title">@role.Name</h5>
-                        </div>
+            <div class="card-body">
+                <h5 class="card-title">@role.Name</h5>
+            </div>
 
-                        <div class="card-footer">
-                            <a class="btn btn-primary" asp-action="EditRole"
-                               asp-controller="Administration" asp-route-id="@role.Id">Edit</a>
+            <div class="card-footer">
+                <form asp-action="DeleteRole_@role.Id" asp-route-id="@role.Id" method="post">
 
-                            <a href="#" class="btn btn-primary">Delete</a>
-                        </div>
-                    </div>
-                }
+                    <a class="btn btn-primary" asp-action="EditRole"
+                       asp-controller="Administration" asp-route-id="@role.Id">Edit</a>
+
+                    <span id="confirmDeleteSpan_@role.Id" style="display: none">
+                        <span>Are you sure you want to delete?></span>
+                        <button type="submit" class="btn btn-danger">Yes</button>
+                        <a href="#" class="btn btn-primary" onclick="confirmDelete('@role.Id', false)">No</a>
+                    </span>
+
+                    <span id="deleteSpan">
+                        <a href="#" class="btn btn-danger" onclick="confirmDelete('@role.Id', true)">Delete</a>
+                    </span>
+                </form>
+            </div>
+        </div>
+    }
 }
 else
 {
@@ -44,4 +55,8 @@ else
             <a class="btn btn-primary" style="width: auto" asp-controller="administration" asp-action="CreateRole">Create role</a>
         </div>
     </div>
+}
+
+@section Scripts{
+    <script src="~/js/CustomScript.js"></script>
 }
