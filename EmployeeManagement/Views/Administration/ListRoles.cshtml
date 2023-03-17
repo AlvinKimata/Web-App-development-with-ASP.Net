@@ -1,6 +1,8 @@
 ﻿@model IEnumerable<IdentityRole>
-@using Microsoft.AspNetCore.Identity
-@inject SignInManager<ApplicationUser> SignInManager
+
+@using Microsoft.AspNetCore.Authorization
+
+@inject IAuthorizationService authorizationService
 
 @{
     ViewBag.Title = "All roles";
@@ -27,6 +29,7 @@
 
             <div class="card-footer">
                 <form asp-action="DeleteRole_@role.Id" asp-route-id="@role.Id" method="post">
+
                     @if ((await authorizationService.AuthorizeAsync(User, "EditRolePolicy")).Succeeded)
                     {
                         <a class="btn btn-primary" asp-action="EditRole"
