@@ -53,7 +53,7 @@ namespace EmployeeManagement
 
             services.AddAuthorization(options =>
             {
-                options.AddPolicy("DeletePolicy",
+                options.AddPolicy("DeleteRolePolicy",
                     policy => policy.RequireClaim("Delete Role"));
 
                 options.AddPolicy("EditRolePolicy",
