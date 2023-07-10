@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "nFKJtM8AMbiuBu1SXTWrXhgotT3GLnoswmPmyf08tgylQ/8lwYMqlZD4lQRMsfOZe5PEfdKRkshiPdPgMKaT9Q==",
+  "dgSpecHash": "Bhb5IVtRqAtXKf4ReWeVxUUZf4KirenIuFvT3hXeYTNwe0vZDw3yokheb1FnXetMFz1QmDpd6UR0nZhvk3/15A==",
   "success": true,
   "projectFilePath": "C:\\Users\\debonair\\OneDrive\\Documents\\web_app_dev\\Web-App-development-with-ASP.Net-and-Angular\\EmployeeManagement\\EmployeeManagement.csproj",
   "expectedPackageFiles": [
@@ -152,12 +152,5 @@
     "C:\\Users\\debonair\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Users\\debonair\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\Users\\debonair\\OneDrive\\Documents\\web_app_dev\\Web-App-development-with-ASP.Net-and-Angular\\EmployeeManagement\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }
