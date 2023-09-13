@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\debonair\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\debonair\\.nuget\\packages"
+      "/home/debonair/.dotnet/store/|arch|/|tfm|",
+      "/home/debonair/.nuget/packages"
     ]
   }
 }

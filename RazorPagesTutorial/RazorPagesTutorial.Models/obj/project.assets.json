@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    "net6.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    "net6.0": []
   },
   "packageFolders": {
     "/home/debonair/.nuget/packages/": {}
@@ -13,24 +13,24 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/debonair/Documents/web/Web-App-development-with-ASP.Net/RazorPagesTutorial/RazorPagesTutorial.csproj",
-      "projectName": "RazorPagesTutorial",
-      "projectPath": "/home/debonair/Documents/web/Web-App-development-with-ASP.Net/RazorPagesTutorial/RazorPagesTutorial.csproj",
+      "projectUniqueName": "/home/debonair/Documents/web/Web-App-development-with-ASP.Net/RazorPagesTutorial/RazorPagesTutorial.Models/RazorPagesTutorial.Models.csproj",
+      "projectName": "RazorPagesTutorial.Models",
+      "projectPath": "/home/debonair/Documents/web/Web-App-development-with-ASP.Net/RazorPagesTutorial/RazorPagesTutorial.Models/RazorPagesTutorial.Models.csproj",
       "packagesPath": "/home/debonair/.nuget/packages/",
-      "outputPath": "/home/debonair/Documents/web/Web-App-development-with-ASP.Net/RazorPagesTutorial/obj/",
+      "outputPath": "/home/debonair/Documents/web/Web-App-development-with-ASP.Net/RazorPagesTutorial/RazorPagesTutorial.Models/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/debonair/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "netcoreapp3.1"
+        "net6.0"
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "projectReferences": {}
         }
       },
@@ -41,8 +41,8 @@
       }
     },
     "frameworks": {
-      "netcoreapp3.1": {
-        "targetAlias": "netcoreapp3.1",
+      "net6.0": {
+        "targetAlias": "net6.0",
         "imports": [
           "net461",
           "net462",
@@ -55,9 +55,6 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
-          "Microsoft.AspNetCore.App": {
-            "privateAssets": "none"
-          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
