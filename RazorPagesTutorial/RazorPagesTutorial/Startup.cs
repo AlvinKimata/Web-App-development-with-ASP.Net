@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
+using Microsoft.AspNetCore.Routing;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
@@ -26,6 +27,12 @@ namespace RazorPagesTutorial
         {
             services.AddRazorPages();
             services.AddSingleton<IEmployeeRepository, MockEmployeeRepository>();
+            services.Configure<RouteOptions>(options => 
+            {
+                options.LowercaseQueryStrings = true;
+                options.LowercaseUrls = true;
+                options.AppendTrailingSlash = true;
+            })
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
