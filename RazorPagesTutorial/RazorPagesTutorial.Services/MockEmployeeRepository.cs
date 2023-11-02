@@ -10,10 +10,10 @@ namespace RazorPagesTutorial.Services{
         public MockEmployeeRepository(){
             _employeeList = new List<Employee>()
             {
-                new Employee() {Id = 1, Name = "Mary", Department = Dept.HR, Email = "mary@mail.com", PhotoPath "mary.png"},
-                new Employee() {Id = 2, Name = "John", Department = Dept.IT, Email = "john@mail.com", PhotoPath "john.png"},
-                new Employee() {Id = 3, Name = "Sara", Department = Dept.HR, Email = "sara@mail.com", PhotoPath "sara.png"},
-                new Employee() {Id = 4, Name = "David", Department = Dept.Payroll, Email = "david@mail.com", PhotoPath "david.png"}
+                new Employee() {Id = 1, Name = "Mary", Department = Dept.HR, Email = "mary@mail.com", PhotoPath = "mary.png"},
+                new Employee() {Id = 2, Name = "John", Department = Dept.IT, Email = "john@mail.com", PhotoPath = "john.png"},
+                new Employee() {Id = 3, Name = "Sara", Department = Dept.HR, Email = "sara@mail.com", PhotoPath = "sara.png"},
+                new Employee() {Id = 4, Name = "David", Department = Dept.Payroll, Email = "david@mail.com", PhotoPath = "david.png"}
             };
         }
 

@@ -86,7 +86,6 @@ C:/Users/debonair/OneDrive/Documents/web_app_dev/Web-App-development-with-ASP.Ne
 /home/debonair/Documents/web/Web-App-development-with-ASP.Net/RazorPagesTutorial/bin/Debug/netcoreapp3.1/RazorPagesTutorial.pdb
 /home/debonair/Documents/web/Web-App-development-with-ASP.Net/RazorPagesTutorial/bin/Debug/netcoreapp3.1/RazorPagesTutorial.Views.dll
 /home/debonair/Documents/web/Web-App-development-with-ASP.Net/RazorPagesTutorial/bin/Debug/netcoreapp3.1/RazorPagesTutorial.Views.pdb
-/home/debonair/Documents/web/Web-App-development-with-ASP.Net/RazorPagesTutorial/obj/Debug/netcoreapp3.1/RazorPagesTutorial.csproj.AssemblyReference.cache
 /home/debonair/Documents/web/Web-App-development-with-ASP.Net/RazorPagesTutorial/obj/Debug/netcoreapp3.1/RazorPagesTutorial.GeneratedMSBuildEditorConfig.editorconfig
 /home/debonair/Documents/web/Web-App-development-with-ASP.Net/RazorPagesTutorial/obj/Debug/netcoreapp3.1/RazorPagesTutorial.AssemblyInfoInputs.cache
 /home/debonair/Documents/web/Web-App-development-with-ASP.Net/RazorPagesTutorial/obj/Debug/netcoreapp3.1/RazorPagesTutorial.AssemblyInfo.cs
@@ -113,3 +112,12 @@ C:/Users/debonair/OneDrive/Documents/web_app_dev/Web-App-development-with-ASP.Ne
 /home/debonair/Documents/web/Web-App-development-with-ASP.Net/RazorPagesTutorial/obj/Debug/netcoreapp3.1/RazorPagesTutorial.pdb
 /home/debonair/Documents/web/Web-App-development-with-ASP.Net/RazorPagesTutorial/obj/Debug/netcoreapp3.1/RazorPagesTutorial.genruntimeconfig.cache
 /home/debonair/Documents/web/Web-App-development-with-ASP.Net/RazorPagesTutorial/obj/Debug/netcoreapp3.1/RazorPagesTutorial.csproj.CopyComplete
+/home/debonair/Documents/web/Web-App-development-with-ASP.Net/RazorPagesTutorial/bin/Debug/netcoreapp3.1/RazorPagesTutorial.Models/obj/project.assets.json
+/home/debonair/Documents/web/Web-App-development-with-ASP.Net/RazorPagesTutorial/bin/Debug/netcoreapp3.1/RazorPagesTutorial.Models/obj/RazorPagesTutorial.Models.csproj.nuget.dgspec.json
+/home/debonair/Documents/web/Web-App-development-with-ASP.Net/RazorPagesTutorial/bin/Debug/netcoreapp3.1/RazorPagesTutorial.Services/obj/project.assets.json
+/home/debonair/Documents/web/Web-App-development-with-ASP.Net/RazorPagesTutorial/bin/Debug/netcoreapp3.1/RazorPagesTutorial.Services/obj/RazorPagesTutorial.Services.csproj.nuget.dgspec.json
+/home/debonair/Documents/web/Web-App-development-with-ASP.Net/RazorPagesTutorial/obj/Debug/netcoreapp3.1/staticwebassets/RazorPagesTutorial.StaticWebAssets.Pack.cache
+/home/debonair/Documents/web/Web-App-development-with-ASP.Net/RazorPagesTutorial/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.RazorPagesTutorial.Microsoft.AspNetCore.StaticWebAssets.props
+/home/debonair/Documents/web/Web-App-development-with-ASP.Net/RazorPagesTutorial/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.build.RazorPagesTutorial.props
+/home/debonair/Documents/web/Web-App-development-with-ASP.Net/RazorPagesTutorial/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.buildMultiTargeting.RazorPagesTutorial.props
+/home/debonair/Documents/web/Web-App-development-with-ASP.Net/RazorPagesTutorial/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.buildTransitive.RazorPagesTutorial.props

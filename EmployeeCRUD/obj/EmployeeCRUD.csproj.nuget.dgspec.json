@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\debonair\\OneDrive\\Documents\\web_app_dev\\Web-App-development-with-ASP.Net-and-Angular\\EmployeeCRUD\\EmployeeCRUD.csproj": {}
+    "/home/debonair/Documents/web/Web-App-development-with-ASP.Net/EmployeeCRUD/EmployeeCRUD.csproj": {}
   },
   "projects": {
-    "C:\\Users\\debonair\\OneDrive\\Documents\\web_app_dev\\Web-App-development-with-ASP.Net-and-Angular\\EmployeeCRUD\\EmployeeCRUD.csproj": {
+    "/home/debonair/Documents/web/Web-App-development-with-ASP.Net/EmployeeCRUD/EmployeeCRUD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\debonair\\OneDrive\\Documents\\web_app_dev\\Web-App-development-with-ASP.Net-and-Angular\\EmployeeCRUD\\EmployeeCRUD.csproj",
+        "projectUniqueName": "/home/debonair/Documents/web/Web-App-development-with-ASP.Net/EmployeeCRUD/EmployeeCRUD.csproj",
         "projectName": "EmployeeCRUD",
-        "projectPath": "C:\\Users\\debonair\\OneDrive\\Documents\\web_app_dev\\Web-App-development-with-ASP.Net-and-Angular\\EmployeeCRUD\\EmployeeCRUD.csproj",
-        "packagesPath": "C:\\Users\\debonair\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\debonair\\OneDrive\\Documents\\web_app_dev\\Web-App-development-with-ASP.Net-and-Angular\\EmployeeCRUD\\obj\\",
+        "projectPath": "/home/debonair/Documents/web/Web-App-development-with-ASP.Net/EmployeeCRUD/EmployeeCRUD.csproj",
+        "packagesPath": "/home/debonair/.nuget/packages/",
+        "outputPath": "/home/debonair/Documents/web/Web-App-development-with-ASP.Net/EmployeeCRUD/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\debonair\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/debonair/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -61,8 +59,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -74,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.122/RuntimeIdentifierGraph.json"
         }
       }
     }
