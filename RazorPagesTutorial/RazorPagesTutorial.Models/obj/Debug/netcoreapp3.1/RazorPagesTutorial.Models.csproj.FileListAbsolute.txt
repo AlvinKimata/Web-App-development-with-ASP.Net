@@ -1,0 +1,9 @@
+/home/debonair/Documents/web/Web-App-development-with-ASP.Net/RazorPagesTutorial/RazorPagesTutorial.Models/bin/Debug/netcoreapp3.1/RazorPagesTutorial.Models.deps.json
+/home/debonair/Documents/web/Web-App-development-with-ASP.Net/RazorPagesTutorial/RazorPagesTutorial.Models/bin/Debug/netcoreapp3.1/RazorPagesTutorial.Models.dll
+/home/debonair/Documents/web/Web-App-development-with-ASP.Net/RazorPagesTutorial/RazorPagesTutorial.Models/bin/Debug/netcoreapp3.1/RazorPagesTutorial.Models.pdb
+/home/debonair/Documents/web/Web-App-development-with-ASP.Net/RazorPagesTutorial/RazorPagesTutorial.Models/obj/Debug/netcoreapp3.1/RazorPagesTutorial.Models.GeneratedMSBuildEditorConfig.editorconfig
+/home/debonair/Documents/web/Web-App-development-with-ASP.Net/RazorPagesTutorial/RazorPagesTutorial.Models/obj/Debug/netcoreapp3.1/RazorPagesTutorial.Models.AssemblyInfoInputs.cache
+/home/debonair/Documents/web/Web-App-development-with-ASP.Net/RazorPagesTutorial/RazorPagesTutorial.Models/obj/Debug/netcoreapp3.1/RazorPagesTutorial.Models.AssemblyInfo.cs
+/home/debonair/Documents/web/Web-App-development-with-ASP.Net/RazorPagesTutorial/RazorPagesTutorial.Models/obj/Debug/netcoreapp3.1/RazorPagesTutorial.Models.csproj.CoreCompileInputs.cache
+/home/debonair/Documents/web/Web-App-development-with-ASP.Net/RazorPagesTutorial/RazorPagesTutorial.Models/obj/Debug/netcoreapp3.1/RazorPagesTutorial.Models.dll
+/home/debonair/Documents/web/Web-App-development-with-ASP.Net/RazorPagesTutorial/RazorPagesTutorial.Models/obj/Debug/netcoreapp3.1/RazorPagesTutorial.Models.pdb

@@ -11,6 +11,19 @@
         "runtime": {
           "bin/placeholder/RazorPagesTutorial.Models.dll": {}
         }
+      },
+      "RazorPagesTutorial.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "RazorPagesTutorial.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/RazorPagesTutorial.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RazorPagesTutorial.Services.dll": {}
+        }
       }
     }
   },
@@ -19,11 +32,17 @@
       "type": "project",
       "path": "../RazorPagesTutorial.Models/RazorPagesTutorial.Models.csproj",
       "msbuildProject": "../RazorPagesTutorial.Models/RazorPagesTutorial.Models.csproj"
+    },
+    "RazorPagesTutorial.Services/1.0.0": {
+      "type": "project",
+      "path": "../RazorPagesTutorial.Services/RazorPagesTutorial.Services.csproj",
+      "msbuildProject": "../RazorPagesTutorial.Services/RazorPagesTutorial.Services.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "RazorPagesTutorial.Models >= 1.0.0"
+      "RazorPagesTutorial.Models >= 1.0.0",
+      "RazorPagesTutorial.Services >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -32,11 +51,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/debonair/Documents/web/Web-App-development-with-ASP.Net/RazorPagesTutorial/RazorPagesTutorial.Services/RazorPagesTutorial.Services.csproj",
-      "projectName": "RazorPagesTutorial.Services",
-      "projectPath": "/home/debonair/Documents/web/Web-App-development-with-ASP.Net/RazorPagesTutorial/RazorPagesTutorial.Services/RazorPagesTutorial.Services.csproj",
+      "projectUniqueName": "/home/debonair/Documents/web/Web-App-development-with-ASP.Net/RazorPagesTutorial/RazorPagesTutorial/RazorPagesTutorial.csproj",
+      "projectName": "RazorPagesTutorial",
+      "projectPath": "/home/debonair/Documents/web/Web-App-development-with-ASP.Net/RazorPagesTutorial/RazorPagesTutorial/RazorPagesTutorial.csproj",
       "packagesPath": "/home/debonair/.nuget/packages/",
-      "outputPath": "/home/debonair/Documents/web/Web-App-development-with-ASP.Net/RazorPagesTutorial/RazorPagesTutorial.Services/obj/",
+      "outputPath": "/home/debonair/Documents/web/Web-App-development-with-ASP.Net/RazorPagesTutorial/RazorPagesTutorial/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/debonair/.nuget/NuGet/NuGet.Config"
@@ -53,6 +72,9 @@
           "projectReferences": {
             "/home/debonair/Documents/web/Web-App-development-with-ASP.Net/RazorPagesTutorial/RazorPagesTutorial.Models/RazorPagesTutorial.Models.csproj": {
               "projectPath": "/home/debonair/Documents/web/Web-App-development-with-ASP.Net/RazorPagesTutorial/RazorPagesTutorial.Models/RazorPagesTutorial.Models.csproj"
+            },
+            "/home/debonair/Documents/web/Web-App-development-with-ASP.Net/RazorPagesTutorial/RazorPagesTutorial.Services/RazorPagesTutorial.Services.csproj": {
+              "projectPath": "/home/debonair/Documents/web/Web-App-development-with-ASP.Net/RazorPagesTutorial/RazorPagesTutorial.Services/RazorPagesTutorial.Services.csproj"
             }
           }
         }
@@ -78,6 +100,9 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }

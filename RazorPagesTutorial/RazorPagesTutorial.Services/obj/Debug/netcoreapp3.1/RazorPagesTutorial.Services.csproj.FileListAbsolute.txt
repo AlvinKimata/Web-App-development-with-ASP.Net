@@ -1,0 +1,13 @@
+/home/debonair/Documents/web/Web-App-development-with-ASP.Net/RazorPagesTutorial/RazorPagesTutorial.Services/bin/Debug/netcoreapp3.1/RazorPagesTutorial.Services.deps.json
+/home/debonair/Documents/web/Web-App-development-with-ASP.Net/RazorPagesTutorial/RazorPagesTutorial.Services/bin/Debug/netcoreapp3.1/RazorPagesTutorial.Services.dll
+/home/debonair/Documents/web/Web-App-development-with-ASP.Net/RazorPagesTutorial/RazorPagesTutorial.Services/bin/Debug/netcoreapp3.1/RazorPagesTutorial.Services.pdb
+/home/debonair/Documents/web/Web-App-development-with-ASP.Net/RazorPagesTutorial/RazorPagesTutorial.Services/bin/Debug/netcoreapp3.1/RazorPagesTutorial.Models.dll
+/home/debonair/Documents/web/Web-App-development-with-ASP.Net/RazorPagesTutorial/RazorPagesTutorial.Services/bin/Debug/netcoreapp3.1/RazorPagesTutorial.Models.pdb
+/home/debonair/Documents/web/Web-App-development-with-ASP.Net/RazorPagesTutorial/RazorPagesTutorial.Services/obj/Debug/netcoreapp3.1/RazorPagesTutorial.Services.csproj.AssemblyReference.cache
+/home/debonair/Documents/web/Web-App-development-with-ASP.Net/RazorPagesTutorial/RazorPagesTutorial.Services/obj/Debug/netcoreapp3.1/RazorPagesTutorial.Services.GeneratedMSBuildEditorConfig.editorconfig
+/home/debonair/Documents/web/Web-App-development-with-ASP.Net/RazorPagesTutorial/RazorPagesTutorial.Services/obj/Debug/netcoreapp3.1/RazorPagesTutorial.Services.AssemblyInfoInputs.cache
+/home/debonair/Documents/web/Web-App-development-with-ASP.Net/RazorPagesTutorial/RazorPagesTutorial.Services/obj/Debug/netcoreapp3.1/RazorPagesTutorial.Services.AssemblyInfo.cs
+/home/debonair/Documents/web/Web-App-development-with-ASP.Net/RazorPagesTutorial/RazorPagesTutorial.Services/obj/Debug/netcoreapp3.1/RazorPagesTutorial.Services.csproj.CoreCompileInputs.cache
+/home/debonair/Documents/web/Web-App-development-with-ASP.Net/RazorPagesTutorial/RazorPagesTutorial.Services/obj/Debug/netcoreapp3.1/RazorPagesTutorial.Services.csproj.CopyComplete
+/home/debonair/Documents/web/Web-App-development-with-ASP.Net/RazorPagesTutorial/RazorPagesTutorial.Services/obj/Debug/netcoreapp3.1/RazorPagesTutorial.Services.dll
+/home/debonair/Documents/web/Web-App-development-with-ASP.Net/RazorPagesTutorial/RazorPagesTutorial.Services/obj/Debug/netcoreapp3.1/RazorPagesTutorial.Services.pdb
