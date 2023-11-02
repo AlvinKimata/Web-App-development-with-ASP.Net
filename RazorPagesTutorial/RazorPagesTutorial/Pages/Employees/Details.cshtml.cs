@@ -9,7 +9,7 @@ using RazorPagesTutorial.Models;
 
 namespace RazorPagesTutorial.Pages.Employees
 {
-    public class IndexModel : PageModel
+    public class DetailsModel : PageModel
     {
         private readonly IEmployeeRepository employeeRepository;
         public Employee Employee {get; set;}
@@ -17,9 +17,9 @@ namespace RazorPagesTutorial.Pages.Employees
         {
             this.employeeRepository = employeeRepository;
         }
-        public void OnGet()
+        public void OnGet(int id)
         {
-            Employees = employeeRepository.GetAllEmployees();
+            Employee = employeeRepository.GetEmployee(id);
         }
     }
 }

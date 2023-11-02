@@ -126,3 +126,4 @@ C:/Users/debonair/OneDrive/Documents/web_app_dev/Web-App-development-with-ASP.Ne
 /home/debonair/Documents/web/Web-App-development-with-ASP.Net/RazorPagesTutorial/RazorPagesTutorial/obj/Debug/netcoreapp3.1/RazorPagesTutorial.dll
 /home/debonair/Documents/web/Web-App-development-with-ASP.Net/RazorPagesTutorial/RazorPagesTutorial/obj/Debug/netcoreapp3.1/RazorPagesTutorial.pdb
 /home/debonair/Documents/web/Web-App-development-with-ASP.Net/RazorPagesTutorial/RazorPagesTutorial/obj/Debug/netcoreapp3.1/RazorPagesTutorial.genruntimeconfig.cache
+/home/debonair/Documents/web/Web-App-development-with-ASP.Net/RazorPagesTutorial/RazorPagesTutorial/obj/Debug/netcoreapp3.1/Razor/Pages/Employees/Details.cshtml.g.cs
