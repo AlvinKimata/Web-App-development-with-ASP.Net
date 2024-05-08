@@ -1,3 +1,8 @@
 RazorPagesTutorial/.vs
 RazorPagesTutorial/bin/
 RazorPagesTutorial/obj/
+*/bin/
+*/obj/
+*/*/bin/
+*/*/obj
+
